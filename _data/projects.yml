@@ -3,53 +3,52 @@
 
 # RL agent for playing minesweeper
 - project: RL agent for playing minesweeper
-  role: Founder & Primary Developer - 
+  role:  Minesweeper - python, gymAI, Reinforcement Learning
   duration: 2024 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas. 
+  description: Embarked on a challenging project to design and implement a Reinforcement Learning (RL) agent with the goal of playing Minesweeper autonomously. The project involves leveraging RL algorithms to enable the agent to learn optimal strategies for uncovering mines while avoiding detonations.
 
 # BCI based attention/relax classification
-- project: BCI based attention/relax classification
-  role: Founder & Primary Developer  - Python, Keras, bioamp chip
-  duration: Oct 2023 &mdash; Present
+- project: Brain-Computer Interface
+  role: attention/relax classification  - Python, Keras, bioamp chip
+  duration: Oct 2023 &mdash; dec 2023
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Embarked on a BCI project aimed at harnessing the power of thought for game control. Utilizing a Bio Amp chip, I implemented real-time EEG data acquisition and successfully classified brain activity associated with attention and relaxation states. This opens doors to innovative, mind-controlled gameplay experiences.
 
 
 # customer segmentation using RFM analysis and clustering with dashboards
-- project: customer segmentation using RFM analysis and clustering with dashboards
-  role: Founder & Primary Developer - Python, Dash, Plotly
+- project: customer segmentation
+  role: Understanding audience @smartInternz - Python, Dash, Plotly
   duration: Dec 2023
   url: "https://github.com/Umang-Bansal/Customer-Segmentation"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Crafted an interactive dashboard using Dash to unravel hidden patterns within a retail dataset. Leveraging RFM analysis and clustering techniques, this project empowers businesses to effectively segment customers and tailor strategies for enhanced engagement and profitability.
 
 
 #  HealthBot - Health Information Chatbot 
-- project: HealthBot - Health Information Chatbot 
-  role: Founder & Primary Developer - Python, Twilio, Chatgpt api
+- project: HealthBot
+  role: Health Information Chatbot  - Python, Twilio, Chatgpt api
   duration: Sept 2023
   url: "https://github.com/Umang-Bansal/healthbot"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Developed an intelligent health information chatbot, HealthBot, to provide users with instant and accurate health-related information. The Python-based chatbot, utilizing Twilio (WhatsApp API) and OpenAI's GPT-3.5 model, ensures interactive and dynamic conversations. Real-time disease information retrieval through web scraping enhances the bot's capabilities.
 
 
 # AI- powered gimbal 
-- project: Face recognition Laser targeting system 
-  role: Founder & Primary Developer - C++, Arduino, PID control
+- project: AI - powered Gimbal 
+  role: Gimbal and PID controller - C++, Arduino, PID control
   duration: Dec 2022 
   url: "https://github.com/Umang-Bansal/gimbal-stabilization"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.  
-
+  description: a self-balancing camera gimbal controlled by Arduino and PID algorithms. Object detection, powered by AI, lets the camera lock onto specific targets while delivering smooth, stabilized footage. This project involved mastering advanced kinematics and electronics for precise camera movement.
 # Sell-it (marketplace for college students)
-- project: Springfield Community Outreach Group
-  role: Firebase integration/backend - React, Firebase
+- project: Sell-it (marketplace for college students)
+  role: marketplace for college students - React, Firebase
   duration: june 2022 
   url: "https://sell-it-rust.vercel.app/"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Established an efficient and organized online platform designed exclusively for college campuses. The Sell-it Website simplifies the buying and selling of goods among students. Leveraging React and Firebase, a collaborative team effort resulted in a streamlined and user-friendly backend.
 
 # Face recognition Laser targeting system 
-- project: jazznotes.io
-  role: Founder & Primary Developer - C++, Arduino, OpenCV
+- project: Face Tracker
+  role: Face recognition Laser targeting system - C++, Arduino, OpenCV
   duration: April 2022 
   # url: "https://github.com/Umang-Bansal/face-targetting"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Developed an robot utilizing Python and Arduino that accurately detects and tracks faces using computer vision algorithms. Implemented a precise laser targeting system, powered by servo motors, to maintain focus on identified faces.
 
