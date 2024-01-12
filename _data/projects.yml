@@ -3,14 +3,14 @@
 
 # RL agent for playing minesweeper
 - project: RL agent for playing minesweeper
-  role: Founder & Primary Developer
+  role: Founder & Primary Developer - 
   duration: 2024 &mdash; Present
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas. 
 
 # BCI based attention/relax classification
 - project: BCI based attention/relax classification
-  role: Founder & Primary Developer
+  role: Founder & Primary Developer  - Python, Keras, bioamp chip
   duration: Oct 2023 &mdash; Present
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
@@ -18,7 +18,7 @@
 
 # customer segmentation using RFM analysis and clustering with dashboards
 - project: customer segmentation using RFM analysis and clustering with dashboards
-  role: Founder & Primary Developer
+  role: Founder & Primary Developer - Python, Dash, Plotly
   duration: Dec 2023
   url: "https://github.com/Umang-Bansal/Customer-Segmentation"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
@@ -26,7 +26,7 @@
 
 #  HealthBot - Health Information Chatbot 
 - project: HealthBot - Health Information Chatbot 
-  role: Founder & Primary Developer
+  role: Founder & Primary Developer - Python, Twilio, Chatgpt api
   duration: Sept 2023
   url: "https://github.com/Umang-Bansal/healthbot"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
@@ -34,21 +34,21 @@
 
 # AI- powered gimbal 
 - project: Face recognition Laser targeting system 
-  role: Founder & Primary Developer
+  role: Founder & Primary Developer - C++, Arduino, PID control
   duration: Dec 2022 
   url: "https://github.com/Umang-Bansal/gimbal-stabilization"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.  
 
 # Sell-it (marketplace for college students)
 - project: Springfield Community Outreach Group
-  role: Firebase integration/backend
+  role: Firebase integration/backend - React, Firebase
   duration: june 2022 
   url: "https://sell-it-rust.vercel.app/"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
 # Face recognition Laser targeting system 
 - project: jazznotes.io
-  role: Founder & Primary Developer
+  role: Founder & Primary Developer - C++, Arduino, OpenCV
   duration: April 2022 
   # url: "https://github.com/Umang-Bansal/face-targetting"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
