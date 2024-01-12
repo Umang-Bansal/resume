@@ -49,6 +49,6 @@
 - project: Face Tracker
   role: Face recognition Laser targeting system - C++, Arduino, OpenCV
   duration: April 2022 
-  # url: "https://github.com/Umang-Bansal/face-targetting"
+  url: "https://github.com/Umang-Bansal/face-targetting"
   description: Developed an robot utilizing Python and Arduino that accurately detects and tracks faces using computer vision algorithms. Implemented a precise laser targeting system, powered by servo motors, to maintain focus on identified faces.
 
