@@ -12,7 +12,7 @@
 - project: Brain-Computer Interface
   role: attention/relax classification  - Python, Keras, bioamp chip
   duration: Oct 2023 &mdash; dec 2023
-  # url: "#"
+  url: "https://github.com/Umang-Bansal/BCI"
   description: Embarked on a BCI project aimed at harnessing the power of thought for game control. Utilizing a Bio Amp chip, I implemented real-time EEG data acquisition and successfully classified brain activity associated with attention and relaxation states. This opens doors to innovative, mind-controlled gameplay experiences.
 
 
