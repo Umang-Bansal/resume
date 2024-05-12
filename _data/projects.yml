@@ -38,6 +38,7 @@
   duration: Dec 2022 
   url: "https://github.com/Umang-Bansal/gimbal-stabilization"
   description: a self-balancing camera gimbal controlled by Arduino and PID algorithms. Object detection, powered by AI, lets the camera lock onto specific targets while delivering smooth, stabilized footage. This project involved mastering advanced kinematics and electronics for precise camera movement.
+  
 # Sell-it (marketplace for college students)
 - project: Sell-it (marketplace for college students)
   role: marketplace for college students - React, Firebase
